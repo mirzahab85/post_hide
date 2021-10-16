@@ -1,0 +1,16 @@
+.post {
+      background-color:lightgreen;
+      padding: 5px;
+      margin: 15px;
+      height: 50px;
+      color:white;
+      text-align:center;
+      font-size:35px;
+      }
+
+.btn {
+      float:right;
+      margin-top:10px;
+      margin-right:10px;
+      height:35px;
+      }
